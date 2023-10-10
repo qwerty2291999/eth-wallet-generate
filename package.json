@@ -1,0 +1,11 @@
+{
+  "name": "Code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "keccak": "^3.0.4",
+    "secp256k1": "^5.0.0"
+  }
+}
